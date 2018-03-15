@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Software Engineer with many years of experience in Architecting, Designing and
+Implementing Web Applications.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
