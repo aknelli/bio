@@ -1,25 +1,39 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Anil K Nelli"
 date:   2018-03-15 11:55:00 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+**(516)502-5475**  
+**anilknelli@gmail.com**  
+*US Citizen*            
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**Career Objective**
+To work in a technically challenging environment, provide cost-effective and timely solutions.  
 
-Jekyll also offers powerful support for code snippets:
+**Experience Summary**
+Over `twenty years of IT` experience in implementing solutions in the area of Medical Countermeasures, Pension Benefits, Staffing Services.  Successfully designed and implemented business applications from conception to completion.  
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+**Technical Skills:**  
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+| Category        | Skills                                                                                                                                              |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Web UI**          | HTML5, CSS3, JavaScript, AJAX, JSON, jQuery, Haml, Bootstrap, MaterializeCSS                                                                        |
+| **Web Development** | Ruby on Rails (full stack), Servlets, J2EE, JDBC, JMS, Junit, Log4j, ANT, Maven, XML, XSD, WSDL, XSLT, SOA, JAX-WS, JAX-RS, RESTful API Webservices |
+| **ORM**             | ActiveRecord, DataMapper, MongoMapper, Mongoid, Hibernate                                                                                           |
+| **Frame Works**     | Ruby on Rails, Sinatra, React, Buffalo                                                                                                              |
+| **Databases**       | Oracle 12i, MySQL, MariaDB, MongoDB, PostgreSQL, Redis                                                                                              |
+| **Languages**       | Ruby, Python, GO, C, C++, Java, C#, Visual Basic, JavaScript                                                                                        |
+| **OS**              | Unix/Linux, Windows , Mac OS X, iOS                                                                                                                 |
+| **Dev. Tools**      | Atom, Sublime Text, Eclipse, VS Code, Jira, RedMine                                                                                                 |
+| **Testing Tools**   | MiniTest, RSpec, Cucumber, Watir                                                                                                                    |
+| **Version Control** | Git, GitHub, GitLab, BitBucket                                                                                                                      |
+| **S/W Engineering** | UML, OOAD, RUP, Agile, Scrum, Kanban                                                                                                                |
+|                 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+**Educational Qualifications:**  
+
+| Degree                                        | University                                  |
+|-----------------------------------------------|---------------------------------------------|
+| Master of Science in Applied Electronics      | Osmania University - Hyderabad, India, 1984 |
+| Bachelor of Science, Honors in Maths Major    | Osmania University - Hyderabad, India. 1982 |  
