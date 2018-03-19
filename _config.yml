@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Anil Nelli, Anil K Nelli, Anil Kumar Nelli, Ruby, Ruby on Rails, HTML, HTML5, CSS, CSS3, JavaScript, jQuery, Haml, Slim, Markdown, Bootstrap, MaterializeCSS,
   Sass, PostgreSQL, MySQL, MariaDB, Oracle, MongoDB, Redis, Python, C, C++, Go, MiniTest, RSpec, Poltergeist, Watir, Git, GitHub, GitLab, BitBucket
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/bio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  aknelli
