@@ -18,15 +18,15 @@ Over `twenty years of IT` experience in implementing solutions in the area of Me
 
 | Category        | Skills                                                                                                                                              |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Web UI**          | HTML5, CSS3, JavaScript, AJAX, JSON, jQuery, Haml, Bootstrap, MaterializeCSS                                                                        |
+| **Web UI**          | HTML5, CSS3, JavaScript, AJAX, JSON, jQuery, Haml, Slim, Markdown, Bootstrap, MaterializeCSS                                                                        |
 | **Web Development** | Ruby on Rails (full stack), Servlets, J2EE, JDBC, JMS, Junit, Log4j, ANT, Maven, XML, XSD, WSDL, XSLT, SOA, JAX-WS, JAX-RS, RESTful API Webservices |
 | **ORM**             | ActiveRecord, DataMapper, MongoMapper, Mongoid, Hibernate                                                                                           |
-| **Frame Works**     | Ruby on Rails, Sinatra, React, Buffalo                                                                                                              |
+| **Frame Works**     | Ruby on Rails, Sinatra, Jekyll, React, Buffalo                                                                                                              |
 | **Databases**       | Oracle 12i, MySQL, MariaDB, MongoDB, PostgreSQL, Redis                                                                                              |
 | **Languages**       | Ruby, Python, GO, C, C++, Java, C#, Visual Basic, JavaScript                                                                                        |
 | **OS**              | Unix/Linux, Windows , Mac OS X, iOS                                                                                                                 |
-| **Dev. Tools**      | Atom, Sublime Text, Eclipse, VS Code, Jira, RedMine                                                                                                 |
-| **Testing Tools**   | MiniTest, RSpec, Cucumber, Watir                                                                                                                    |
+| **Dev. Tools**      | Atom, Sublime Text, Eclipse, XCode, VS Code, Jira, RedMine                                                                                                 |
+| **Testing Tools**   | MiniTest, RSpec, Poltergeist, Watir                                                                                                                    |
 | **Version Control** | Git, GitHub, GitLab, BitBucket                                                                                                                      |
 | **S/W Engineering** | UML, OOAD, RUP, Agile, Scrum, Kanban                                                                                                                |
 |                 
