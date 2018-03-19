@@ -37,3 +37,16 @@ Over `twenty years of IT` experience in implementing solutions in the area of Me
 |-----------------------------------------------|---------------------------------------------|
 | Master of Science in Applied Electronics      | Osmania University - Hyderabad, India, 1984 |
 | Bachelor of Science, Honors in Maths Major    | Osmania University - Hyderabad, India. 1982 |  
+
+
+**Current Employment Role and Responsibilities:**  
+
+- Understand requirements, prepare software requirements specifications.
+- Architect systems, create artifacts and prepare design document.
+- Do hands-on coding.
+- Assign tasks to other team members, mentor juniors.
+- Deploy applications on the servers in the Cloud.
+- Work with QA team and Integration Teams.
+- Deliver quality assured applications on time to the users.
+- Administration of Users.
+- Do production support.
