@@ -75,3 +75,10 @@ Over `twenty years of IT` experience in implementing solutions in the field of M
 Actuarial Calculation Toolkit (ACT) has four modules. The system enabled the Actuaries to compute the plan estimation and valuation. It also allows the user to customize and generate Benefit Statements and Optional Form of Annuities.  
 Automated Data Transfer (ADT) system validates the data and generates output file to be uploaded into Spectrum system.  
 Archive Utility/Access is a document storage/retrieval system and which enables the users to open/execute plan documents and also perform re-calc on Benefit Statement/OFA statements.  
+
+**Client - Adecco (Melville, NY) April 2000 - April 2008  
+**Role - Sr. Lead Programmer Analyst**  
+**System - Time & Expense System (Staffing Services Application)**
+**Technology** - Linux, Windows XP, Java, J2EE, XML, Weblogic 8.2/9.2, Oracle 9i/10g and Altio 3.2.1e.    
+Rewrote the existing client/server PowerBuilder application into Web based application using BEA Weblogic 8.2/9.2, Java, J2EE, XML, XSLT and Altio.  
+The system uploads electronic Timesheets and Expense sheets 24x7, Timesheets go through the OT rules engine to determine OT defined by customer/state/federal. Front-end allows to enter sheets manually and also to do corrections, adjustments and voiding of checks. The system interfaces data to PeopleSoft for payroll processing and Oracle Financials for invoicing.  
