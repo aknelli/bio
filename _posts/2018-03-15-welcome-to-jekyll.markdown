@@ -12,7 +12,7 @@ categories: jekyll update
 To work in a technically challenging environment, provide cost-effective and timely solutions.  
 
 **Experience Summary**
-Over `twenty years of IT` experience in implementing solutions in the area of Medical Countermeasures, Pension Benefits, Staffing Services.  Successfully designed and implemented business applications from conception to completion.  
+Over `twenty years of IT` experience in implementing solutions in the field of Medical Countermeasures, Pension Benefits, Staffing Services.  Successfully designed and implemented business applications from conception to completion.  
 
 **Technical Skills:**  
 
@@ -50,3 +50,12 @@ Over `twenty years of IT` experience in implementing solutions in the area of Me
 - Deliver quality assured applications on time to the users.
 - Administration of Users.
 - Do production support.
+
+**Projects**  
+
+**Client-ASPR/HHS(Washington, DC)                  April 2013 - Todate**  
+**Company - The Tauri Group**  
+**Role - Sr. Web Integration Specialist**  
+**Technology** - Ruby, Ruby on Rails, HTML5, CSS3, JavaScript, jQuery, Haml, Markdown, Bootstrap, FusionCharts, MySQL.  
+**System - Portfolio Tracking Tool, Broad Base Capability and Cost Model**  
+**Description** - Special joint project between HHS and DoD. Medical counter measure system for inter agencies to capture portfolio data through web interface. Management of portfolios, evaluation of statuses through analytical reports and graphs. Broad Base Capability is a tool like a search engine to search capabilities, facilities and services available in the Government labs. Cost Model is a drug development estimation tool, to evaluate the cost estimation drug development based on the historical cost data, inflation, etc. All system are deployed on the Cloud.  
