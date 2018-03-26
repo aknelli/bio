@@ -45,15 +45,15 @@ Over `twenty years of IT` experience in implementing solutions in the field of M
 - Architect systems, create artifacts and prepare design document.
 - Do hands-on coding.
 - Assign tasks to other team members, mentor juniors.
-- Deploy applications on the servers in the Cloud.
+- Deploy applications to the servers on the Cloud.
 - Work with QA team and Integration Teams.
 - Deliver quality assured applications on time to the users.
 - Administration of Users.
-- Do production support.
+- Production support.
 
 **Projects**  
 
-**Client - ASPR/HHS(Washington, DC) April 2013 - Todate**  
+**Client - ASPR/HHS (Washington, DC) April 2013 - Todate**  
 **Company - The Tauri Group**  
 **Role - Sr. Web Integration Specialist**  
 **Technology** - Ruby, Ruby on Rails, HTML5, CSS3, JavaScript, jQuery, Haml, Markdown, Bootstrap, FusionCharts, MySQL.  
@@ -76,9 +76,31 @@ Actuarial Calculation Toolkit (ACT) has four modules. The system enabled the Act
 Automated Data Transfer (ADT) system validates the data and generates output file to be uploaded into Spectrum system.  
 Archive Utility/Access is a document storage/retrieval system and which enables the users to open/execute plan documents and also perform re-calc on Benefit Statement/OFA statements.  
 
-**Client - Adecco (Melville, NY) April 2000 - April 2008  
+**Client - Adecco (Melville, NY) April 2000 - April 2008**  
 **Role - Sr. Lead Programmer Analyst**  
 **System - Time & Expense System (Staffing Services Application)**
 **Technology** - Linux, Windows XP, Java, J2EE, XML, Weblogic 8.2/9.2, Oracle 9i/10g and Altio 3.2.1e.    
 Rewrote the existing client/server PowerBuilder application into Web based application using BEA Weblogic 8.2/9.2, Java, J2EE, XML, XSLT and Altio.  
 The system uploads electronic Timesheets and Expense sheets 24x7, Timesheets go through the OT rules engine to determine OT defined by customer/state/federal. Front-end allows to enter sheets manually and also to do corrections, adjustments and voiding of checks. The system interfaces data to PeopleSoft for payroll processing and Oracle Financials for invoicing.  
+
+**Client - OLSTEN CORP. (Melville, NY)​​​​       Jan 1998 – Feb 2000**  
+**System - Time Entry System (Staffing Services Application)**  
+**Role – Sr. Programmer/Analyst**  
+**Technology** - Window NT, PowerBuilder 5.0/6.5 with Oracle 7.3  
+Time Entry System Interface to PeopleSoft and AS400.  
+Automatic Time System - Time recorded using 1-800 # and upload into Custom Match.  
+Time Entry System Reports.  
+
+**Client - OLSTEN CORP. (Melville, NY)​​​​       May 1997 - Dec 1997**  
+**System – Partner-Ship Database (Staffing Services Application)**  
+**Role – Programmer/Analyst**  
+**Technology** - Window NT, PowerBuilder 4.0/5.0 with Oracle 7.3, Sybase SQL Server.  
+Involved in migrating the application from Sybase SQL Server to Oracle 7.3 and PB 4.0 to PowerBuilder 5.0.0.2  
+Designed and Implemented new sub system ‘Time Entry’ for new client (NCR).  
+
+**Client - TTX (Chicago, IL)​​​​​​    Feb 1997 - April 1997**  
+**System - RDS (Railcar Distribution System - Automobiles)**  
+**Role - Programmer**
+Win 95, PowerBuilder 5.0 with DB2  
+Pipeline Subsystem - Keeps track of railcar movements and status.  
+Involved in studying detail design, preparing specs, coding, creating test plans and Implementation.  
