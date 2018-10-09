@@ -18,7 +18,7 @@ Over `twenty years of IT` experience in implementing solutions in the field of M
 
 | Category        | Skills                                                                                                                                              |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Web UI**          | HTML5, CSS3, JavaScript, AJAX, JSON, jQuery, Haml, Slim, Markdown, Bootstrap, MaterializeCSS                                                                        |
+| **Web UI**          | HTML5, CSS3, JavaScript, AJAX, JSON, jQuery, Haml, Slim, Markdown, Bootstrap                                                                             |
 | **Web Development** | Ruby on Rails (full stack), Servlets, J2EE, JDBC, JMS, Junit, Log4j, ANT, Maven, XML, XSD, WSDL, XSLT, SOA, JAX-WS, JAX-RS, RESTful API Webservices |
 | **ORM**             | ActiveRecord, DataMapper, MongoMapper, Mongoid, Hibernate                                                                                           |
 | **Frame Works**     | Ruby on Rails, Sinatra, Jekyll, React, Buffalo                                                                                                              |
@@ -28,16 +28,8 @@ Over `twenty years of IT` experience in implementing solutions in the field of M
 | **Dev. Tools**      | Atom, Sublime Text, Eclipse, XCode, VS Code, Jira, RedMine                                                                                                 |
 | **Testing Tools**   | MiniTest, RSpec, Poltergeist, Watir                                                                                                                    |
 | **Version Control** | Git, GitHub, GitLab, BitBucket                                                                                                                      |
-| **S/W Engineering** | UML, OOAD, RUP, Agile, Scrum, Kanban                                                                                                                |
+| **Cloud Dev** | Heroku, nitrous.io, c9.io, AWS                                                                                                                     |
 |                 
-
-**Educational Qualifications:**  
-
-| Degree                                        | University                                  |
-|-----------------------------------------------|---------------------------------------------|
-| Master of Science in Applied Electronics      | Osmania University - Hyderabad, India, 1984 |
-| Bachelor of Science, Honors in Maths Major    | Osmania University - Hyderabad, India. 1982 |  
-
 
 **Current Employment Role and Responsibilities:**  
 
@@ -62,7 +54,7 @@ Over `twenty years of IT` experience in implementing solutions in the field of M
 
 **Client - Pension Benefit Guaranty Corp.(Washington, DC) Jan 2011 - March 2013**  
 **Company - Salient CRGT**  
-**Role - Sr. Developer/Technical Lead**
+**Role - Sr. Developer/Technical Lead**  
 **Technology** - Java, J2EE, Servlets, JSP, Struts, Spring, Hibernate, HTML, CSS, JavaScript, Web Services, Oracle 10g/11g, Oracle Reports, Tomcat, Oracle Application Server.  
 **System - Case Management System**  
 **Description** - Case Management System (CMS) is used by Pension Benefit Guaranty Corporation (PBGC) to monitor single-employer pension plans that have the potential to terminate, process single-employer pension plan terminations and coverage issues, monitor and assist multi-employer pension plans and process Non-Covered Defined Benefits (DB) and Defined Contribution (DC) missing participants plans.  
@@ -72,7 +64,7 @@ Over `twenty years of IT` experience in implementing solutions in the field of M
 **System - Actuarial Calculation Toolkit**  
 **Role - Sr. Developer/Team Lead**  
 **Technology** - PowerBuilder 8, Visual Basic 6, MS Excel 2003/2007, VBA for Excel, C++, Windows XP.  
-Actuarial Calculation Toolkit (ACT) has four modules. The system enabled the Actuaries to compute the plan estimation and valuation. It also allows the user to customize and generate Benefit Statements and Optional Form of Annuities.  
+Actuarial Calculation Toolkit (ACT) has four modules. The system enables the Actuaries to compute the plan estimation and valuation. It also allows the user to customize and generate Benefit Statements and Optional Form of Annuities.  
 Automated Data Transfer (ADT) system validates the data and generates output file to be uploaded into Spectrum system.  
 Archive Utility/Access is a document storage/retrieval system and which enables the users to open/execute plan documents and also perform re-calc on Benefit Statement/OFA statements.  
 
@@ -104,3 +96,10 @@ Designed and Implemented new sub system ‘Time Entry’ for new client (NCR).
 Win 95, PowerBuilder 5.0 with DB2  
 Pipeline Subsystem - Keeps track of railcar movements and status.  
 Involved in studying detail design, preparing specs, coding, creating test plans and Implementation.  
+
+**Educational Qualifications:**  
+
+| Degree                                        | University                                  |
+|-----------------------------------------------|---------------------------------------------|
+| Master of Science in Applied Electronics      | Osmania University - Hyderabad, India, 1984 |
+| Bachelor of Science, Honors in Maths Major    | Osmania University - Hyderabad, India. 1982 |  
