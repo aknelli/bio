@@ -46,7 +46,7 @@ Over `twenty years of IT` experience in implementing solutions in the field of M
 **Projects**  
 
 **Client - ASPR/HHS (Washington, DC) April 2013 - Todate**  
-**Company - The Tauri Group**  
+**Company - The Tauri Group, an LMI company**  
 **Role - Sr. Web Integration Specialist**  
 **Technology** - Ruby, Ruby on Rails, HTML5, CSS3, JavaScript, jQuery, Haml, Markdown, Bootstrap, FusionCharts, MySQL.  
 **System - Portfolio Tracking Tool, Broad Base Capability and Cost Model**  
